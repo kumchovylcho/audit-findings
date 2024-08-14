@@ -14,7 +14,8 @@ Since `addAttester()` does not have a mechanism to check if the address already 
 
 You won't be able to remove duplicate attesters and you will need to make several transactions costing you more money.
 
-Tools Used
+# Tools Used
+
 Manual Review
 
 # Recommendations
